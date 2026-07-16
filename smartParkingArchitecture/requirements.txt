@@ -1,0 +1,15 @@
+opencv-python
+yolov5
+torch
+torchvision
+torchaudio
+easyocr
+flask
+firebase-admin
+sqlalchemy
+pymysql
+matplotlib
+pandas
+seaborn
+scipy
+
